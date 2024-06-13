@@ -10,3 +10,8 @@ This is a simple Windows Forms Application created in Visual Basic as a task for
 
 ![Screenshot](https://github.com/Nayankumar4986/..NET-7_Window-Desk-Top-App/blob/main/capture%201.png)
 ![Screenshot](https://github.com/Nayankumar4986/..NET-7_Window-Desk-Top-App/blob/main/capture%202%20.png)
+
+#this task provided a some fundamental concepts in GUI development using Windows Forms
+App and VB.NET & Exploring a New Development Environment I got a deeper understanding
+of the Visual Studio environment to navigate through it and utilize its features i learn C#, the
+Windows Forms platform can also be used with VB.NET
