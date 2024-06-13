@@ -8,5 +8,5 @@ This is a simple Windows Forms Application created in Visual Basic as a task for
 2. Press `F5` or click on the "Start" button to run the project.
 3. A message box will appear with the message: "<Your Name> here, this is my Slidely AI task".
 
-![Screenshot](capture1.png)
-![Screenshot](capture2.png)
+![Screenshot](https://github.com/Nayankumar4986/..NET-7_Window-Desk-Top-App/blob/main/capture%201.png)
+![Screenshot](https://github.com/Nayankumar4986/..NET-7_Window-Desk-Top-App/blob/main/capture%202%20.png)
