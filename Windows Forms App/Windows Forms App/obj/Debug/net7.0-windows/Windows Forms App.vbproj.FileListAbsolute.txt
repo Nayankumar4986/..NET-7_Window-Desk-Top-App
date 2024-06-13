@@ -1,0 +1,16 @@
+E:\visual studio express\Windows Forms App\Windows Forms App\bin\Debug\net7.0-windows\Windows Forms App.exe
+E:\visual studio express\Windows Forms App\Windows Forms App\bin\Debug\net7.0-windows\Windows Forms App.deps.json
+E:\visual studio express\Windows Forms App\Windows Forms App\bin\Debug\net7.0-windows\Windows Forms App.runtimeconfig.json
+E:\visual studio express\Windows Forms App\Windows Forms App\bin\Debug\net7.0-windows\Windows Forms App.dll
+E:\visual studio express\Windows Forms App\Windows Forms App\bin\Debug\net7.0-windows\Windows Forms App.pdb
+E:\visual studio express\Windows Forms App\Windows Forms App\obj\Debug\net7.0-windows\Windows_Forms_App.Form1.resources
+E:\visual studio express\Windows Forms App\Windows Forms App\obj\Debug\net7.0-windows\Windows Forms App.vbproj.GenerateResource.cache
+E:\visual studio express\Windows Forms App\Windows Forms App\obj\Debug\net7.0-windows\Windows Forms App.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio express\Windows Forms App\Windows Forms App\obj\Debug\net7.0-windows\Windows Forms App.AssemblyInfoInputs.cache
+E:\visual studio express\Windows Forms App\Windows Forms App\obj\Debug\net7.0-windows\Windows Forms App.AssemblyInfo.vb
+E:\visual studio express\Windows Forms App\Windows Forms App\obj\Debug\net7.0-windows\Windows Forms App.vbproj.CoreCompileInputs.cache
+E:\visual studio express\Windows Forms App\Windows Forms App\obj\Debug\net7.0-windows\Windows Forms App.dll
+E:\visual studio express\Windows Forms App\Windows Forms App\obj\Debug\net7.0-windows\refint\Windows Forms App.dll
+E:\visual studio express\Windows Forms App\Windows Forms App\obj\Debug\net7.0-windows\Windows Forms App.pdb
+E:\visual studio express\Windows Forms App\Windows Forms App\obj\Debug\net7.0-windows\Windows Forms App.genruntimeconfig.cache
+E:\visual studio express\Windows Forms App\Windows Forms App\obj\Debug\net7.0-windows\ref\Windows Forms App.dll
